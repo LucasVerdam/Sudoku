@@ -3,5 +3,5 @@ Sudoku com 3 dificuldades feito com HTML, CSS e JavaScript para a Disciplina de 
 <br></br>
 <br></br>
 <div align="center">
-<img width="221px" height = "221px" src="https://github.com/LucasVerdam/Sudoku/bg.jpg alt="cover" />
+<img width="221px" height = "221px" src="https://github.com/LucasVerdam/Sudoku/blob/main/Sudoku.png alt="cover" />
 </div>
