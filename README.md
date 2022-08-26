@@ -1,16 +1,16 @@
 # Sudoku
-Sudoku com 3 dificuldades feito com HTML, CSS e JavaScript para a Disciplina de Programação para Internet 1.
+Sudoku com 3 dificuldades feito para a Disciplina de Programação para Internet 1.
 <br></br>
 
 IFB- Instituto Federal de Educação, ciência e tecnologia de Brasília
 
 Curso: Tecnólogo em Sistemas para Internet
 
-Alunos: Lucas Nascimento V. de Araújo/Pedro Henrique F. de Santana- TSIV5A
+Alunos: Lucas Nascimento V. de Araújo/Pedro Henrique F. de Santana- TSIV4A
 
-Disciplina: Programação para internet 2- Prof. Fábio Henrique
+Disciplina: Programação para internet 1- Prof. 
 
-Tecnologias: Python, Django, React.
+Tecnologias: HTML, CSS, JS.
 
 Status: Finalizado
 
